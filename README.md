@@ -1,2 +1,2 @@
 # Simple Game
-implementation of the game Arkanoid in JavaScript
+implementation of the game Arkanoid in JavaScript.
